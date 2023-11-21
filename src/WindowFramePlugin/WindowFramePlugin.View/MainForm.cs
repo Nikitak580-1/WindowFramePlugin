@@ -40,8 +40,6 @@ namespace WindowFramePlugin.View
                 if (x < 50) FramelengthTextBox.Text = "50";
                 if (x > 300) FramelengthTextBox.Text = "300";
             }
-            else
-                FramelengthTextBox.Text = "";
         }
     }
 }
