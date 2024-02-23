@@ -1,0 +1,12 @@
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.dll
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.pdb
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.AssemblyReference.cache
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.CoreCompileInputs.cache
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.dll
+C:\Users\majaw\Downloads\GastArbeit\Plugin\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.AssemblyReference.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.pdb
