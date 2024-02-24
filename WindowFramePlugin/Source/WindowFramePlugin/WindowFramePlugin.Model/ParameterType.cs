@@ -33,6 +33,6 @@
         /// <summary>
         /// Длина перегородки внутри рамы окна L3.
         /// </summary>
-        LengthPartitionWindowFrameL3
+        LengthPartitionWindowFrameL3,
     }
 }
