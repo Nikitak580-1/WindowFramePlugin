@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFramePlugin.Model", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFramePlugin.Wrapper", "WindowFramePlugin.Wrapper\WindowFramePlugin.Wrapper.csproj", "{DDAD4B0D-5E20-4C04-B686-76656CF0315C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFramePlugin.UnitTests", "Testing\WindowFramePlugin.Model.UnitTests\WindowFramePlugin.UnitTests.csproj", "{8D3B285B-2CB0-4C4C-B5A0-269DA4D4CD20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DDAD4B0D-5E20-4C04-B686-76656CF0315C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDAD4B0D-5E20-4C04-B686-76656CF0315C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDAD4B0D-5E20-4C04-B686-76656CF0315C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3B285B-2CB0-4C4C-B5A0-269DA4D4CD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3B285B-2CB0-4C4C-B5A0-269DA4D4CD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3B285B-2CB0-4C4C-B5A0-269DA4D4CD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3B285B-2CB0-4C4C-B5A0-269DA4D4CD20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
