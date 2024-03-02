@@ -28,3 +28,13 @@ C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFra
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.csproj.CopyComplete
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.dll
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\bin\Debug\WindowFramePlugin.Wrapper.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\bin\Debug\WindowFramePlugin.Wrapper.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\bin\Debug\KAPITypes.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\bin\Debug\WindowFramePlugin.Model.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\bin\Debug\WindowFramePlugin.Model.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.csproj.AssemblyReference.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.csproj.CopyComplete
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Wrapper\obj\Debug\WindowFramePlugin.Wrapper.pdb

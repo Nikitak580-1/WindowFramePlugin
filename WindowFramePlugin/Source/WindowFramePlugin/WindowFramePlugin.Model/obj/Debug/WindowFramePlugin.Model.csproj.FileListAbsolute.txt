@@ -16,3 +16,9 @@ C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFra
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.pdb
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.dll
 C:\Users\nikis\Source\Repos\WindowFramePlugin\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\bin\Debug\WindowFramePlugin.Model.pdb
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.AssemblyReference.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.dll
+C:\Users\nikis\Source\Repos\WindowFramePlugin5\WindowFramePlugin\Source\WindowFramePlugin\WindowFramePlugin.Model\obj\Debug\WindowFramePlugin.Model.pdb
